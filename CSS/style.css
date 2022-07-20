@@ -182,7 +182,6 @@ nav ul li a:hover{
 
     #mastersongname{
         font-size: 0.7rem;
-        margin: 5px;
     }
     h1{
         font-size: 1.5rem;
@@ -193,10 +192,7 @@ nav ul li a:hover{
         width: 40px;
         height: 70px;
     }
-    .icons{
-        margin: 14px;
-        word-spacing: 20px;
-    }
+    
     
 
 }
