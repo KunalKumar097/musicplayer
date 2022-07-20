@@ -80,7 +80,7 @@ nav ul li a:hover{
     width: 75%;
     border-radius: 12px;
     padding: 34px;
-    background-image: url('Image/download.webp');
+    background-image: url('Image/bk.jpg');
     background-size: cover;
 }
 .songlist h1{
@@ -191,5 +191,8 @@ nav ul li a:hover{
         left: 0px;
         width: 40px;
         height: 70px;
+    }
+    
+
 }
 
